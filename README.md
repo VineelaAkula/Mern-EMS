@@ -1,1 +1,4 @@
-DEMO LINK- mern-ems-w2ps.vercel.app
+
+# Clone the repository
+git clone https://github.com/your-username/Mern-EMS.git
+
