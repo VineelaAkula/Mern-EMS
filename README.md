@@ -44,6 +44,44 @@ EMS is a full-stack MERN Employee Management System with role-based access for A
 - Inngest (background jobs & cron reminders)
 - Nodemailer (transactional email)
 
+
+## 📸 Screenshots
+
+### 🔐 Login
+
+<p align ="center">
+  <img src="screenshots/login.png" alt="Login Page" width="800"/>
+</p>
+
+---
+
+### 👨‍💼 Admin Panel
+
+| Dashboard | Leave Management |
+|-----------|------------------|
+| ![](screenshots/AdminDashboard.png) | ![](screenshots/AdminLeave.png) |
+
+| Employees | settings |
+|-----------|----------|
+| ![](screenshots/EmployeesList.png) | ![](screenshots/AdminSettings.png) |
+
+
+
+---
+
+### 👨‍💻 Employee Panel
+
+| Dashboard | Attendance |
+|-----------|------------|
+| ![](screenshots/EmployeeDashboard.png) | ![](screenshots/EmployeeAttendance.png) |
+
+| Leave | Payslip |
+|-------|----------|
+| ![](screenshots/EmployeeLeave.png) | ![](screenshots/PayslipPrint.png) |
+
+| Settings |
+|----------|
+| ![](screenshots/Settings.png) |
 #  Installation
 
 ## Clone Repository
