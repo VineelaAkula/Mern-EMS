@@ -45,7 +45,7 @@ EMS is a full-stack MERN Employee Management System with role-based access for A
 - Nodemailer (transactional email)
 
 
-## 📸 Screenshots
+##  Screenshots
 
 ###  Login
 
