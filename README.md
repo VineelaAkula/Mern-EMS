@@ -47,7 +47,7 @@ EMS is a full-stack MERN Employee Management System with role-based access for A
 
 ## 📸 Screenshots
 
-### 🔐 Login
+###  Login
 
 <p align ="center">
   <img src="screenshots/login.png" alt="Login Page" width="800"/>
@@ -55,7 +55,7 @@ EMS is a full-stack MERN Employee Management System with role-based access for A
 
 ---
 
-### 👨‍💼 Admin Panel
+###  Admin Panel
 
 | Dashboard | Leave Management |
 |-----------|------------------|
@@ -69,7 +69,7 @@ EMS is a full-stack MERN Employee Management System with role-based access for A
 
 ---
 
-### 👨‍💻 Employee Panel
+###  Employee Panel
 
 | Dashboard | Attendance |
 |-----------|------------|
